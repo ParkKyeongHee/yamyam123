@@ -1,0 +1,6 @@
+{
+  "name": "냉장고 파먹기",
+  "description": "사용자 프로필 지정, 냉장고 속 사진 및 텍스트 기반 식재료 정규화, 지능형 레시피 매칭 엔진, 그리고 식비 및 영양 관리, 식비 절감 다이어리, 안전 점검 기능이 포함된 냉장고 파먹기 관리 웹앱",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
